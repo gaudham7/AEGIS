@@ -1,0 +1,122 @@
+{
+  "4b2d57fe4271": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-18T21:35:33.494967+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "ef643ff45abe": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-18T23:27:51.500544+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "1d748467f31d": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-18T23:35:18.919080+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "a21a32bbc715": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-18T23:41:18.728400+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "6dc711c7c7a2": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-18T23:46:36.769997+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "5b0dda2f23e9": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-19T01:28:00.041080+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "d29922658ea9": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-19T01:37:41.208048+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "d0a6afe1cb99": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-19T01:44:29.969966+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "2ea03157608d": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-19T02:14:21.314717+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "942d2d5d5ac0": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-19T03:41:05.706232+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "7ae6c79b77d0": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-19T03:58:47.021825+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  },
+  "3582e14df22d": {
+    "filename": "development_dataset.csv",
+    "uploaded_at": "2026-09-19T06:33:15.196707+00:00",
+    "row_count": 25003,
+    "equipment": [
+      "CHILLER-01",
+      "CHILLER-02",
+      "CHILLER-03"
+    ]
+  }
+}
