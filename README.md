@@ -105,3 +105,4 @@ uvicorn app.main:app --reload --port 8000
 Then run the frontend against it as above. Use `data/sample_dataset.csv` or
 `data/generate_synthetic_dataset.py` for a quick local test end-to-end:
 upload → train → overview → equipment → timeline → investigation.
+# AEGIS
